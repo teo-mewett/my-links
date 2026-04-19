@@ -1,0 +1,11 @@
+baseURL = "https://teomewett.co.uk"
+languageCode = "en-us"
+title = "Teo Mewett"
+theme = "LucentLink-Hugo"
+
+[params]
+  description = "Your tagline here"
+  googleAnalytics = ""
+
+[outputs]
+  home = ["HTML"]

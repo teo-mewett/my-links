@@ -19,7 +19,7 @@ links:
     icon: "fab fa-snapchat"
     title: "Snapchat"
     description: "Boost my snapscore, cheers."
-  - href: "https://www.linkedin.com/in/teo-mewett"
+  - href: "www.linkedin.com/in/teo-mewett-baa8a4331"
     icon: "fab fa-linkedin"
     title: "LinkedIn"
     description: "Connect with me on LinkedIn."

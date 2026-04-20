@@ -31,7 +31,4 @@ links:
     icon: "fas fa-envelope"
     title: "Email Me"
     description: "Be old fashioned and email me..."
-
-spotifyPlaylist:
-  iframe: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2PrJhrAyY03vs5jiv2nTdv?utm_source=generator" width="100%" height="152" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
 ---

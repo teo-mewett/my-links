@@ -2,7 +2,7 @@
 title: "Teo Mewett"
 profileImage: "images/photo.jpg"
 name: "Teo Mewett"
-description: "I CANNOT code, but somehow I made this."
+description: "I can't code, but somehow I made this."
 
 socials:
   - url: "https://instagram.com/teo.mewett"

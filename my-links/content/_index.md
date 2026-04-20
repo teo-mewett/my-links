@@ -31,4 +31,8 @@ links:
     icon: "fas fa-envelope"
     title: "Email Me"
     description: "Be old fashioned and email me..."
+  - href: "https://instagram.com/bliss.harley"
+    icon: "fab fa-instagram"
+    title: "Instagram"
+    description: "Follow this tosser. he stil loves you lola."
 ---

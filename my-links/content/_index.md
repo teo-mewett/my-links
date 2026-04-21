@@ -30,5 +30,5 @@ links:
   - href: "mailto:contact@teomewett.co.uk"
     icon: "fas fa-envelope"
     title: "Email Me"
-    description: "Be old fashioned and email me..."
+    description: "Send me an email."
 ---

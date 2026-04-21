@@ -2,7 +2,7 @@
 title: "Teo Mewett"
 profileImage: "images/photo.jpg"
 name: "Teo Mewett"
-description: "I can't code, but somehow I made this."
+description: "I am sad enough to have my own website."
 
 socials:
   - url: "https://instagram.com/teo.mewett"

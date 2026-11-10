@@ -2,7 +2,7 @@
 title: "Teo Mewett"
 profileImage: "images/photo.jpg"
 name: "Teo Mewett"
-description: "I am sad enough to have my own website."
+description: "Directory."
 
 socials:
   - url: "https://instagram.com/teo.mewett"
@@ -19,10 +19,6 @@ links:
     icon: "fab fa-linkedin"
     title: "LinkedIn"
     description: "Connect with me on LinkedIn."
-  - href: "https://members.eyp.org/user/teo-mewett"
-    icon: "fas fa-globe"
-    title: "EYP Members Platform"
-    description: "My Members Platform profile."
   - href: "mailto:contact@teomewett.co.uk"
     icon: "fas fa-envelope"
     title: "Email Me"
